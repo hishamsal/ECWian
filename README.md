@@ -5,11 +5,15 @@ A production React Native app solving daily attendance tracking and exam plannin
 
 ## 📱 Screenshots
 
+### ☀️ Light Mode
 | Login Screen | Dashboard with Progress Rings | Exam Planner |
 |:---:|:---:|:---:|
-| ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) | ![Exams](./screenshots/exams.png) |
+| ![Login Light](./screenshots/login-light.png) | ![Dashboard Light](./screenshots/dashboard-light.png) | ![Exams Light](./screenshots/exams-light.png) |
 
-*(Add your screenshots in a `screenshots/` folder)*
+### 🌙 Dark Mode
+| Login Screen | Dashboard with Progress Rings | Exam Planner |
+|:---:|:---:|:---:|
+| ![Login Dark](./screenshots/login-dark.png) | ![Dashboard Dark](./screenshots/dashboard-dark.png) | ![Exams Dark](./screenshots/exams-dark.png) |
 
 ## 🎯 The Problem
 
