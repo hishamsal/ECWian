@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "ECWian",
+    "slug": "attendance-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.ethiraj.attendance",
+      "usesCleartextTraffic": true
+    },
+    "plugins": [
+      "./plugins/withCleartext.js"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef09d282-e5e5-4982-af4a-927ecf5cfea2"
+      }
+    }
+  }
+}
