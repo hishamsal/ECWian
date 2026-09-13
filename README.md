@@ -1,4 +1,4 @@
-# 🎓 ECWian — Attendance Companion
+# 🎓 ECWian: Attendance Companion
 
 **Unofficial mobile app for Ethiraj College for Women students**  
 A production React Native app solving daily attendance tracking and exam planning for 100+ classmates.
